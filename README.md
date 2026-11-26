@@ -22,7 +22,7 @@ The research is led by Nik Bear Brown with Northeastern University students, Hum
 | **The Junior's Curve: What Employers Ask of Entry-Level STEM Workers** | Working methods draft. No findings yet. | [the-juniors-curve-employer-demand](https://github.com/nikbearbrown/the-juniors-curve-employer-demand) |
 | **The Junior's Curve: How Coding Agents Change the Work of First-Year Developers** | Proposed study protocol. No participants recruited and no data collected. | [the-juniors-curve-coding-agents](https://github.com/nikbearbrown/the-juniors-curve-coding-agents) |
 | **The AI jobs map paper:** how Boston organizations use and present AI | No draft yet. The contributor guide and the list of analytic decisions contributors can own are ready. | [ai-jobs-map](https://github.com/nikbearbrown/ai-jobs-map) (guide: [paper/CONTRIBUTING-paper.md](https://github.com/nikbearbrown/ai-jobs-map/blob/main/paper/CONTRIBUTING-paper.md)) |
-| **Reading Work Through Seven Facets:** a coding protocol for job postings and syllabi | Working manuscript, not yet in a repository. The open replication kit is public. | [irreducibly-human-facets](https://github.com/nikbearbrown/irreducibly-human-facets) (kit only) |
+| **Reading Work Through Seven Facets:** a coding protocol for job postings and syllabi | Working methods draft. Findings are withheld while the blind coding round runs; coders read the paper after handing in. | [reading-work-through-seven-facets](https://github.com/nikbearbrown/reading-work-through-seven-facets) (coding kit: [irreducibly-human-facets](https://github.com/nikbearbrown/irreducibly-human-facets)) |
 
 The Junior's Curve's two papers share an overview repository, [the-juniors-curve](https://github.com/nikbearbrown/the-juniors-curve).
 
