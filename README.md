@@ -91,12 +91,6 @@ Papers by Nik Bear Brown and collaborators. Authors and affiliations are as prin
 - Shesh Narayan Gupta and Nicholas Bear Brown. **Adjusting for bias with procedural data.** arXiv, 2022. [arXiv](https://arxiv.org/abs/2204.01108)
 - Nimish Magre and Nicholas Brown. **Typography-MNIST (TMNIST): an MNIST-style image dataset to categorize glyphs and font-styles.** arXiv, 2022. [arXiv](https://arxiv.org/abs/2202.08112)
 
-### Posters
-
-- Ziqing Lu et al., including Nik Bear Brown. **Using deep learning to transfer atlas annotations in mouse brain data.** Research poster, 2020. [ResearchGate](https://www.researchgate.net/publication/341785093_Using_Deep_Learning_to_Transfer_Atlas_Annotations_in_Mouse_Brain_Data)
-
-Books and other writing are listed on [Nik Bear Brown's GitHub profile](https://github.com/nikbearbrown).
-
 ## Keeping this list
 
 - **One row per paper.** Keep different versions of one paper (a preprint and its journal version) together.
