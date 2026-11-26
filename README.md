@@ -79,8 +79,6 @@ Papers by Nik Bear Brown and collaborators. Authors and affiliations are as prin
 - Alayt Issak, Sarthak Kakkar, Sair Goetz, Nik Bear Brown and Casper Harteveld. **Mapping the typographic latent space of digits.** ICLR Tiny Papers, 2023. [Paper](https://openreview.net/pdf?id=ufA2FuCGyz)
 - Rohit Gandikota, Deepak Mishra and Nik Bear Brown. **Hiding video in images: harnessing adversarial learning on deep 3D-spatio-temporal convolutional neural networks.** CVIP 2022 proceedings, Springer, 2023, pp. 58–71. [DOI](https://doi.org/10.1007/978-3-031-31407-0_5)
 - Rohit Gandikota and Nik Bear Brown. **Pro-DDPM: progressive growing of variable denoising diffusion probabilistic models for faster convergence.** British Machine Vision Conference (BMVC), 2022. [Paper](https://pdf-files.bmvc2022.org/0121.pdf)
-- Jared Fox and Nik Brown. **Automatically extracting acronyms from biomedical text.** IEEE BIBE, 2007, pp. 1245–1248. [DOI](https://doi.org/10.1109/BIBE.2007.4375724)
-- Jared Fox and Nik Brown. **Sensitivity and consistency of Affymetrix GeneChip normalization methods.** IEEE BIBE, 2007, pp. 1081–1086. [DOI](https://doi.org/10.1109/BIBE.2007.4375693)
 
 ### Preprints
 
