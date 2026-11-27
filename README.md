@@ -32,14 +32,15 @@ The Junior's Curve's two papers share an overview repository, [the-juniors-curve
 |---|---|---|
 | **Irreducibly Human Work Lexicon: An Auditable Vocabulary for Matching Skills Across Job Postings and Curricula** | Rough manuscript. No entry has been independently reviewed yet, and the held-out evaluation the paper proposes has not been run. | [irreducibly-human-work-lexicon](https://github.com/nikbearbrown/irreducibly-human-work-lexicon) |
 | **NanoLex:** a lexicon of nanomedicine terms | No draft yet. The 977 seed terms are ready; independent editions are still to be drafted and checked. | [nano-lex](https://github.com/nikbearbrown/nano-lex) |
-| **Clinical Treatments and Procedures Lexicon** | No draft yet. A seed list of 354 Wikipedia pages and a replication kit; no editions yet. | [clinical-treatments-and-procedures-lexicon](https://github.com/nikbearbrown/clinical-treatments-and-procedures-lexicon) |
-| **Disease, Syndromes and Symptoms Lexicon** | No draft yet. A seed list of 1,079 Wikipedia pages and a replication kit; no editions yet. | [disease-syndromes-and-symptoms-lexicon](https://github.com/nikbearbrown/disease-syndromes-and-symptoms-lexicon) |
+| **Clinical Treatments and Procedures Lexicon** | Rough methods draft; 354 seed pages and both agentic workflows. No study results. | [Paper and diagrams](https://github.com/nikbearbrown/clinical-treatments-and-procedures-lexicon/tree/main/paper) |
+| **Disease, Syndromes and Symptoms Lexicon** | Rough methods draft; 1,079 seed pages and both agentic workflows. No study results. | [Paper and diagrams](https://github.com/nikbearbrown/disease-syndromes-and-symptoms-lexicon/tree/main/paper) |
 | **Drugs and Recreational Drug Use Lexicon** | No draft yet. A seed list of 352 Wikipedia pages and a replication kit; no editions yet. | [drugs-and-recreational-drug-use-lexicon](https://github.com/nikbearbrown/drugs-and-recreational-drug-use-lexicon) |
 
 ### Teaching, learning and AI
 
 | Paper | Where it stands | Repository |
 |---|---|---|
+| **Computational Skepticism for AI Pilot Assurance** | Rough methods draft and fictional workshop protocol; no study results. | [Manuscript](https://github.com/nikbearbrown/computational-skepticism-for-ai/blob/main/paper/manuscript.md) |
 | **AI+1: An Auditable Workflow for Drafting AI-Ready Textbook Chapters** | Author-review draft. The comparative evaluation is proposed; no results yet. | [ai-plus-one-paper](https://github.com/nikbearbrown/ai-plus-one-paper) |
 | **Frictional: Measuring the Struggle** | The preprint text of July 15, 2026. Not yet submitted to a venue. | [frictional-measuring-the-struggle](https://github.com/nikbearbrown/frictional-measuring-the-struggle) |
 | **Auditing the Making** (Frictional, paper 1): testing the process-evidence audit on a synthetic benchmark | Outline, and the benchmark specification. No human subjects. | [auditing-the-making](https://github.com/nikbearbrown/auditing-the-making) |
